@@ -1,0 +1,6 @@
+!/readme.md
+
+# Section1
+/Section1/*
+!/Section1/*.cpp
+!/Section1/*.md
